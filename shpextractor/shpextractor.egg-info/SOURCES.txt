@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+shpextractor/__init__.py
+shpextractor/shpextractor.py
+shpextractor.egg-info/PKG-INFO
+shpextractor.egg-info/SOURCES.txt
+shpextractor.egg-info/dependency_links.txt
+shpextractor.egg-info/requires.txt
+shpextractor.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+azure-storage-blob
+geopandas
+sqlalchemy
+geoalchemy2
+psycopg2
+shapely
+fiona

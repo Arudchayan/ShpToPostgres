@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: shpextractor
+Version: 0.1.0
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: azure-storage-blob
+Requires-Dist: geopandas
+Requires-Dist: sqlalchemy
+Requires-Dist: geoalchemy2
+Requires-Dist: psycopg2
+Requires-Dist: shapely
+Requires-Dist: fiona
